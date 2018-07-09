@@ -56,6 +56,8 @@
 
 - RCWController app by Micono Utilities 
 
+- RCWController support for Tetris on the M5Stack by Micono Utilities
+
 - Tetris ported to M5Stack by Macsbug - https://macsbug.wordpress.com/
 
 - Tetris originally from MhageGH - https://github.com/MhageGH/esp32_ST7735_Tetris
