@@ -32,11 +32,11 @@
 <br />
 
 ## Setup
-1. Clone or download code above, open in Arduino IDE. 
-2. Edit code - add your WiFi details - SSID and password - to the code. Save & upload to M5Stack.  
+1. Clone or download code above to your Arduino "sketchbook" directory. Make sure the extra file - tetris_img.c - is in the same directory as the sketch file - M5Stack_Tetris_RCWController.ino. Open the sketch in the Arduino IDE. 
+2. Edit the code: enter your WiFi details - SSID and password. Save & upload the sketch to the M5Stack.  
 3. Grab an iPhone. Go to the Apple store. Search for RCWController. Install.
-4. Turn M5Stack on. It will try to establish a WiFi connection. The IP address being used will be displayed on the M5Stack screen.
-5. Open the RCWController app. Note the green button in the middle of the screen between the "Select" and the "Start" button. Press twice & the IP address setup screen should appear. Enter the IP address number being used by the M5Stack. Press the "Connect" button on the bottom right of the screen.
+4. Turn M5Stack on. It will attempt to establish a WiFi connection. If succcessful the IP address now in use by the M5Stack will be displayed on the M5Stack screen.
+5. Open the RCWController app. Note the green button in the middle of the screen between the "Select" and the "Start" button. Press twice & the IP address setup screen will appear. Enter the IP address being used by the M5Stack. Press the "Connect" button on the bottom right of the screen.
 
 <br />
 
