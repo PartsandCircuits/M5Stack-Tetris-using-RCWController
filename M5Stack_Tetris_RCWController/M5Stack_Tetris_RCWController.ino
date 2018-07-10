@@ -1,4 +1,4 @@
-//========================================================================
+//=======================================================================================================================
 // TETRIS on M5STACK controlled by RCWController app on iPhone
 
 // TETRIS code originally from MhageGH - https://github.com/MhageGH/esp32_ST7735_Tetris
@@ -7,10 +7,11 @@
 // RCWController support for Tetris on 5Stack by Micono Utilities 
 // Video demo + link to orginal source for this code - https://www.youtube.com/watch?v=jeuHP-NbdJg&feature=youtu.be
 //
-// Variations in this version of the code compared to the original = Very minor =  On-screen intro text: font size increased & colour added.
+// Variations in this version of the code compared to the previous version by Micono Utilities = Very minor =  On-screen 
+//   intro text: font size increased & colour added.
 // Github source for the code in this file =  https://github.com/PartsandCircuits/M5Stack-Tetris-using-RCWController
  
-//=========================================================================
+//=======================================================================================================================
 
 #include <M5Stack.h>                                       // M5STACK
 #include <WiFi.h>
@@ -443,5 +444,3 @@ int MaxMin(int n) {
 //========================================================================
 //========================================================================
 //========================================================================
-
-
