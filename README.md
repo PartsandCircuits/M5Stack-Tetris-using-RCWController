@@ -4,7 +4,7 @@
 
 <p align="center">
  
-<img src="https://github.com/PartsandCircuits/M5Stack-Tetris-using-RCWController/blob/master/Tetris%2BRCWController.jpg" width="600">
+<img src="https://github.com/PartsandCircuits/M5Stack-Tetris-using-RCWController/blob/master/Tetris-RCWController.png" width="700">
 
 </p>
 
